@@ -13,12 +13,12 @@ I am a Master’s student at Xi’an Jiaotong University (XJTU), focusing on lar
 
 ### 🎓 Education
 
-- M.Eng. in Computer Technology  
-  School of Computer Science and Technology, Xi’an Jiaotong University (XJTU)  
+- M.Eng. in Computer Technology <br>
+  School of Computer Science and Technology, Xi’an Jiaotong University (XJTU) <br>  
   *2024 – Present*
 
-- B.Eng. in Software Engineering 
-  College of Information Science and Engineering, Hunan University (HNU)
+- B.Eng. in Software Engineering <br>
+  College of Information Science and Engineering, Hunan University (HNU) <br>
   *2020 – 2024*
 
 ---
