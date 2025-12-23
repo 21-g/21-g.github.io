@@ -18,7 +18,7 @@ I am a Master’s student at Xi’an Jiaotong University (XJTU), focusing on lar
   *2024 – Present*
 
 - B.Eng. in Software Engineering <br>
-  College of Information Science and Engineering, Hunan University (HNU) <br>
+  College of Computer Science and Electronic Engineering, Hunan University (HNU) <br>
   *2020 – 2024*
 
 ---
