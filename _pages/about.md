@@ -14,7 +14,7 @@ I am a Master’s student at Xi’an Jiaotong University (XJTU), focusing on lar
 ### 🎓 Education
 
 - M.Eng. in Computer Technology <br>
-  School of Computer Science and Technology, Xi’an Jiaotong University (XJTU) <br>  
+  School of Computer Science and Technology, Xi’an Jiaotong University (XJTU) 
   *2024 – Present*
 
 - B.Eng. in Software Engineering <br>
